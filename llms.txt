@@ -17,3 +17,7 @@ George Popescu AI separates signal from noise in the current AI hype cycle. Rath
 - [AI Infrastructure Investment](https://georgepopescuai.com/ai-infrastructure-investment.html)
 - [George Popescu on AI Creativity](https://georgepopescuai.com/george-popescu-on-ai-creativity.html)
 - [The Shift to Embodied AI](https://georgepopescuai.com/shift-to-embodied-ai.html)
+
+## External Resources
+
+- [George Popescu – Profile (PDF)](https://zenodo.org/records/18333161): Official profile document hosted on Zenodo
