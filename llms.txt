@@ -1,0 +1,19 @@
+# George Popescu AI
+
+> A space for clear, evidence-based thinking about artificial intelligence — exploring AI as interface, embodied intelligence, and the limits of today's AI boom.
+
+George Popescu AI separates signal from noise in the current AI hype cycle. Rather than betting on ever-larger language models, this site explores AI as a powerful human-computer interface and argues that real long-term progress will come from embodied AI — systems that perceive, move, and act in the physical world.
+
+## Pages
+
+- [Home](https://georgepopescuai.com/): Overview of George Popescu's AI perspective
+- [About George Popescu](https://georgepopescuai.com/about.html): Background and philosophy
+- [Blog](https://georgepopescuai.com/blog.html): Essays on AI, technology, and innovation
+- [Contact](https://georgepopescuai.com/contact.html): Get in touch
+
+## Key Essays
+
+- [AI Bubble: Myth or Reality?](https://georgepopescuai.com/ai-bubble-myth-or-reality.html)
+- [AI Infrastructure Investment](https://georgepopescuai.com/ai-infrastructure-investment.html)
+- [George Popescu on AI Creativity](https://georgepopescuai.com/george-popescu-on-ai-creativity.html)
+- [The Shift to Embodied AI](https://georgepopescuai.com/shift-to-embodied-ai.html)
