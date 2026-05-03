@@ -4,10 +4,24 @@
   "redirects": [
     { "source": "/about-george-popescu", "destination": "/about", "permanent": true },
     { "source": "/about-george-popescu/", "destination": "/about", "permanent": true },
+    { "source": "/aboutgeorgepopescu", "destination": "/about", "permanent": true },
+    { "source": "/aboutgeorgepopescu/", "destination": "/about", "permanent": true },
+    { "source": "/george-popescu-about", "destination": "/about", "permanent": true },
+    { "source": "/george-popescu-about/", "destination": "/about", "permanent": true },
+    { "source": "/georgepopescuabout", "destination": "/about", "permanent": true },
+
     { "source": "/blog-george-popescu", "destination": "/blog", "permanent": true },
     { "source": "/blog-george-popescu/", "destination": "/blog", "permanent": true },
+    { "source": "/bloggeorgepopescu", "destination": "/blog", "permanent": true },
+    { "source": "/george-popescu-blog", "destination": "/blog", "permanent": true },
+    { "source": "/george-popescu-blog/", "destination": "/blog", "permanent": true },
+
     { "source": "/contact-george-popescu", "destination": "/contact", "permanent": true },
     { "source": "/contact-george-popescu/", "destination": "/contact", "permanent": true },
+    { "source": "/contactgeorgepopescu", "destination": "/contact", "permanent": true },
+    { "source": "/george-popescu-contact", "destination": "/contact", "permanent": true },
+    { "source": "/george-popescu-contact/", "destination": "/contact", "permanent": true },
+
     { "source": "/ai-bubble-myth-or-reality/", "destination": "/ai-bubble-myth-or-reality", "permanent": true },
     { "source": "/ai-infrastructure-investment/", "destination": "/ai-infrastructure-investment", "permanent": true },
     { "source": "/george-popescu-on-ai-creativity/", "destination": "/george-popescu-on-ai-creativity", "permanent": true },
