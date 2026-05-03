@@ -1,0 +1,16 @@
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "redirects": [
+    { "source": "/about-george-popescu", "destination": "/about", "permanent": true },
+    { "source": "/about-george-popescu/", "destination": "/about", "permanent": true },
+    { "source": "/blog-george-popescu", "destination": "/blog", "permanent": true },
+    { "source": "/blog-george-popescu/", "destination": "/blog", "permanent": true },
+    { "source": "/contact-george-popescu", "destination": "/contact", "permanent": true },
+    { "source": "/contact-george-popescu/", "destination": "/contact", "permanent": true },
+    { "source": "/ai-bubble-myth-or-reality/", "destination": "/ai-bubble-myth-or-reality", "permanent": true },
+    { "source": "/ai-infrastructure-investment/", "destination": "/ai-infrastructure-investment", "permanent": true },
+    { "source": "/george-popescu-on-ai-creativity/", "destination": "/george-popescu-on-ai-creativity", "permanent": true },
+    { "source": "/shift-to-embodied-ai/", "destination": "/shift-to-embodied-ai", "permanent": true }
+  ]
+}
